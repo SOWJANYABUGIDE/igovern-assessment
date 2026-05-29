@@ -1,0 +1,48 @@
+# Angular
+**/node_modules/
+**/dist/
+**/.angular/
+coverage/
+
+# Spring Boot / Java
+**/target/
+*.log
+logs/
+uploads/
+
+# Eclipse / Workspace
+.metadata/
+**/.metadata/
+
+# IDE
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+.c9/
+*.launch
+
+# VS Code history
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Maven
+.mvn/
+dependency-reduced-pom.xml
+
+# Misc
+tmp/
+out-tsc/
+bazel-out/
+.sass-cache/
+connect.lock
+libpeerconnection.log
+testem.log
+typings/

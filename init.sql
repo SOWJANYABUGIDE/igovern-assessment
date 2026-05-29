@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS program_schema;
+CREATE SCHEMA IF NOT EXISTS audit_schema;
